@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.btn-color {
+    background-image: linear-gradient(to top, #a4bc46, #85a019);
+}
+
+.hero-text {
+font-family: "Bebas Neue", sans-serif;
+color: #363958;
+}
+
+.separate {
+    color: #FABE4C;
+}
+
+.hero-bg {
+    background-color: #FFFBF0;
+}
